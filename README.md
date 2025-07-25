@@ -214,13 +214,12 @@ http://localhost/service-sphere/
 
 ## 👨‍💻 Developed By
 
-**Ravi M Shetty**  
+**Chandan bhat**  
 📍 Bangalore, India  
 💼 Frontend Developer | Python | PHP | Full-Stack Enthusiast  
-🌐 [Portfolio](https://ravishetty-portfolio.netlify.app/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ravi-m-shetty/)  
-💻 [GitHub](https://github.com/Ravishetty07)  
-📧 ravishetty050822@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/chandan-bhat-1885117339/)  
+💻 [GitHub](https://github.com/chandanbhat63)  
+📧 chandanbhat2019@gmail.com  
 
 
 
